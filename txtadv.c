@@ -2204,7 +2204,7 @@ void Map()
     {
         
         location=map[0][1][0];
-        /*Coordinates();*/
+        Coordinates();
         printf(ANSI_COLOR_YELLOW"============================\n");
         printf(ANSI_COLOR_YELLOW"============================\n");
         printf(ANSI_COLOR_GREEN"################");printf(ANSI_COLOR_YELLOW"============\n");
